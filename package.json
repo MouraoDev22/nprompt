@@ -1,5 +1,6 @@
 {
   "name": "nprompt",
+  "type": "module",
   "version": "1.0.0",
   "main": "index.js",
   "description": "Simple prompt method for Node.js",
